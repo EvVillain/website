@@ -105,16 +105,8 @@ defaults:
 # CloudCannon
 
 social_icons:
-  - Facebook
-  - Google Plus
   - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
   - Email
-  - RSS
 
 _comments:
   description: Text shown when sharing on social media

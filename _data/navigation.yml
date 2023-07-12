@@ -1,6 +1,10 @@
-- name: Blog
-  link: /blog/
-- name: About
-  link: /about/
+#- name: Blog
+#  link: /blog/
+#- name: About
+#  link: /about/
+- name: How Does it Work
+  link: /how-does-it-work/
+- name: Offerings
+  link: /offerings/
 - name: Contact
   link: /contact/
