@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Frisco Template
-url: "https://brave-submarine.cloudvent.net"
+title: Elevate with Evelyn
+url: "https://elevate-with-evelyn.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,15 +10,15 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: App marketing template for Jekyll.
-author:
-  name:
+description: Marketing website for Elevate with Evelyn
+author: 
+  name: Nick Gudman
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Frisco Template
+  name: Elevate with Evelyn
   links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+    - https://www.instagram.com/elevatewithevelyn 
 
 # -----
 # Build
