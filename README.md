@@ -1,5 +1,7 @@
 # Frisco
 
+`docker run -p 4000:4000 -v $(pwd):/site bretfisher/jekyll-serve`
+
 App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).
 Increase the web presence of a App with this configurable theme.
 
